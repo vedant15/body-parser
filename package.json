@@ -17,7 +17,7 @@
     "iconv-lite": "0.4.24",
     "on-finished": "~2.3.0",
     "qs": "6.9.3",
-    "raw-body": "2.4.1",
+    "raw-body": "vedant15/raw-body#dfa633d2a9c41f6f5c1743cfde08b0d0dc3c02a9",
     "type-is": "~1.6.18"
   },
   "devDependencies": {
